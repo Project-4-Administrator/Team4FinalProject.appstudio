@@ -33,6 +33,30 @@
             "customerInsert",
             "customerInsert.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "appWelcome",
+            "appWelcome.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "createAccount",
+            "createAccount.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "userLogin",
+            "userLogin.json"
+          ]
         }
       ],
       "configxml": null,
