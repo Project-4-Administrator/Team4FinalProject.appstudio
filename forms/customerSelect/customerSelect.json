@@ -45,6 +45,15 @@
         "Elements",
         "btnCustomerInsert.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "hmbNavCustomerSelect.json"
+      ]
     }
   ],
   "class": "",

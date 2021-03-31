@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblCustomers",
   "labelStyle": "text",
-  "left": 47,
+  "left": 49,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 46,
+  "top": 96,
   "value": "Label",
   "width": 217
 }
