@@ -1,3 +1,4 @@
+//Danny comment
 // global variables for database calls
 let req = ""
 let query = ""
