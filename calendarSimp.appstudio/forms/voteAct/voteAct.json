@@ -14,27 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "calSimp",
+        "voteAct",
         "Elements",
-        "dpdMonth.json"
+        "selAct.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calSimp",
+        "voteAct",
         "Elements",
-        "inptDate.json"
+        "lblSug.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calSimp",
+        "voteAct",
         "Elements",
-        "btnVote.json"
+        "btnShow.json"
       ]
     }
   ],
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "calSimp",
+  "id": "voteAct",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -52,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "calSimp.onshow()",
+  "onshow": "voteAct.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

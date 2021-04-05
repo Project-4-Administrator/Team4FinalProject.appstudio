@@ -25,6 +25,14 @@
             "calSimp",
             "calSimp.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "voteAct",
+            "voteAct.json"
+          ]
         }
       ],
       "configxml": null,
