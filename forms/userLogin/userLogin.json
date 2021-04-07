@@ -18,6 +18,51 @@
         "Elements",
         "hmbNavUserLogin.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userLogin",
+        "Elements",
+        "lblLoginError.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userLogin",
+        "Elements",
+        "inptUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userLogin",
+        "Elements",
+        "inptPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userLogin",
+        "Elements",
+        "btnUserLoginSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userLogin",
+        "Elements",
+        "btnUserLoginClear.json"
+      ]
     }
   ],
   "class": "",
