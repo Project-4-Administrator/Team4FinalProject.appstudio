@@ -103,3 +103,4 @@ btnUserLoginSubmit.onclick = function() {
         lblConfirmAdd.textContent = "Error: " + req.status
     }
     */
+//Test hjiang
