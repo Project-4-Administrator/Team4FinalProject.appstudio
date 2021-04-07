@@ -1,4 +1,4 @@
-hmbNavCreateAccount.onclick = function(s) {
+hmbNavCustomizeAccount.onclick = function(s) {
   if (typeof(s) == "object") {
     return
   } else {
@@ -21,4 +21,5 @@ hmbNavCreateAccount.onclick = function(s) {
     }
   }
 }
+
 
