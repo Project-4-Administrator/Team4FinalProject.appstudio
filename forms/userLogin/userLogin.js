@@ -46,7 +46,7 @@ btnUserLoginSubmit.onclick = function(){
     if (req.status == 200) {
         results = JSON.parse(req.responseText)
         if (results.length == 0)    
-           lblCustomers.textContent = "This user does not exist. Please try again."
+           lblLoginError.value = "This user does not exist. Please try again."
         else {        
            ChangeForm(customizeAccount)
            
