@@ -108,6 +108,24 @@
         "Elements",
         "lblInsert.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerInsert",
+        "Elements",
+        "inptCreateUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerInsert",
+        "Elements",
+        "hmbNavCustomerInsert.json"
+      ]
     }
   ],
   "class": "",
