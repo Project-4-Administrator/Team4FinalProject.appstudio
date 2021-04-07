@@ -57,6 +57,14 @@
             "userLogin",
             "userLogin.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customizeAccount",
+            "customizeAccount.json"
+          ]
         }
       ],
       "configxml": null,
