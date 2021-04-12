@@ -15,7 +15,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 47,
   "hidden": "",
   "id": "lblCustomerIDReminder",
   "labelStyle": "text",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 112,
+  "top": 87,
   "value": "Label",
   "width": 206
 }

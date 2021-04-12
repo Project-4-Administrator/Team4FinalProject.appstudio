@@ -72,6 +72,15 @@
         "Elements",
         "lblAddHobbyMessage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "inptCustomerIDHobby.json"
+      ]
     }
   ],
   "class": "",
