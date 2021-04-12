@@ -90,6 +90,15 @@
         "Elements",
         "btnAddHobby.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnCustomizeAccountRefresh.json"
+      ]
     }
   ],
   "class": "",

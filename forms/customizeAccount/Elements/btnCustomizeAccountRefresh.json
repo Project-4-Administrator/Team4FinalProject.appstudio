@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnViewCalendar",
-  "left": 13,
+  "id": "btnCustomizeAccountRefresh",
+  "left": 234,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 412,
-  "value": "View Calendar",
-  "width": 146
+  "top": 413,
+  "value": "Refresh",
+  "width": "auto"
 }

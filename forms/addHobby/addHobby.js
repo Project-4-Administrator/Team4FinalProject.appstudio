@@ -35,8 +35,8 @@ btnAddHobbies.onclick=function(){
     let hobby_1 = inptHobby1.value
     let hobby_2 = inptHobby2.value
     let hobby_3 = inptHobby3.value
-    let customer_id = inptCustomerIDHobby.value
-    let query = `INSERT INTO hobby (`hobby_1`, `hobby_2`, `hobby_3`) VALUES ('" + hobby_1 + "', '" + hobby_2 + "', '" + hobby_3 + "') WHERE customer_id = ${customer_id}`
+    let username = inptHobbyUsername.value
+    let query = "INSERT INTO hobby (hobby_1, hobby_2, hobby_3, username) VALUES ('" + hobby_1 + "', '" + hobby_2 + "', '" + hobby_3 + "', '" + username + "')"
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
     if (req.status == 200) { 
         if (req.responseText == 500)    

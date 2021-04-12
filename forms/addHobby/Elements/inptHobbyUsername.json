@@ -29,10 +29,10 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "inptCustomerIDHobby",
+  "id": "inptHobbyUsername",
   "inputType": "text",
   "inputmode": "",
-  "left": 8,
+  "left": 74,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -68,7 +68,7 @@
   "pRight": "",
   "pTop": "",
   "passwordToggle": "",
-  "placeholder": "ID #",
+  "placeholder": "Username",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 116,
+  "top": 302,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 56
+  "width": 165
 }
