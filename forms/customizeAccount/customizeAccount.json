@@ -45,6 +45,24 @@
         "Elements",
         "txtHobbies.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "inptUsernameSearch.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnCustomerID.json"
+      ]
     }
   ],
   "class": "",
