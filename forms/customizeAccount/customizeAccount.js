@@ -22,5 +22,7 @@ hmbNavCustomizeAccount.onclick = function(s) {
   }
 }
 
-
+customizeAccount.onshow=function(){
+  lblCustomize.value = 'Customize and view your profile!'
+}
 

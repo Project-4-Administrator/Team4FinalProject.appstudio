@@ -18,6 +18,33 @@
         "Elements",
         "hmbNavCustomizeAccount.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "lblCustomize.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnViewCalendar.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "txtHobbies.json"
+      ]
     }
   ],
   "class": "",
