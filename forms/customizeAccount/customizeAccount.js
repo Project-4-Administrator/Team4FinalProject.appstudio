@@ -44,8 +44,9 @@ btnCustomerID.onclick=function(){
 }
 
 btnShowHobbies.onclick=function(){
-  inputUsername = inptUsername.value
-  query = `SELECT * FROM hobby WHERE username = "${inputUsername}"`
+  inputUsername = inptUsernameSearch.value
+  message = ''
+  query = `SELECT hobby_1, hobby_2, hobby_3 FROM hobby WHERE username = "${inputUsername}"`
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
 
     if (req.status == 200) {
@@ -54,8 +55,8 @@ btnShowHobbies.onclick=function(){
            lblCustomize.value = 'Something went wrong...'
         else {        
            for (i = 0; i < results.length; i++)
-             
-           lblCustomize.value = `Your customer ID number is ${results}`
+             message = message + results[i] + '\n'
+           txtHobbies.value = message
         } 
     }
 }
