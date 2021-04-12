@@ -54,6 +54,11 @@ btnUserLoginSubmit.onclick = function(){
 
     }
 }
+
+btnUserLoginBack.onclick=function(){
+  ChangeForm(appWelcome)
+}
+
 /*
 btnSearch.onclick=function(){        
     query = "SELECT * FROM customer"

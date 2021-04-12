@@ -63,6 +63,33 @@
         "Elements",
         "btnCustomerID.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnShowHobbies.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "lblCustomerIDReminder.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnAddHobby.json"
+      ]
     }
   ],
   "class": "",

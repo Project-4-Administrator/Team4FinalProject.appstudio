@@ -29,10 +29,10 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "inptUsernameSearch",
+  "id": "inptHobby1",
   "inputType": "text",
   "inputmode": "",
-  "left": 6,
+  "left": 72,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -68,7 +68,7 @@
   "pRight": "",
   "pTop": "",
   "passwordToggle": "",
-  "placeholder": "Username",
+  "placeholder": "Hobby 1",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 137,
+  "top": 115,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 168
+  "width": 164
 }

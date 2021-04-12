@@ -65,6 +65,14 @@
             "customizeAccount",
             "customizeAccount.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "addHobby",
+            "addHobby.json"
+          ]
         }
       ],
       "configxml": null,

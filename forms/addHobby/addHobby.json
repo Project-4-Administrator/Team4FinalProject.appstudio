@@ -14,63 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "hmbNavUserLogin.json"
+        "hmbNavAddHobby.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "lblLoginError.json"
+        "btnAddHobbyBack.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "inptUserName.json"
+        "inptHobby1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "inptPassword.json"
+        "inptHobby2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "btnUserLoginSubmit.json"
+        "inptHobby3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "btnUserLoginClear.json"
+        "btnAddHobbies.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "userLogin",
+        "addHobby",
         "Elements",
-        "btnUserLoginBack.json"
+        "lblAddHobbyMessage.json"
       ]
     }
   ],
@@ -80,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "userLogin",
+  "id": "addHobby",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
