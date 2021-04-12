@@ -96,6 +96,22 @@
           "obfuscate": "false",
           "script": "",
           "src": "app copy.js"
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "suggestAct",
+            "suggestAct.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "voteAct",
+            "voteAct.json"
+          ]
         }
       ],
       "configxml": null,
