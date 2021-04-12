@@ -27,6 +27,15 @@
         "Elements",
         "btnSug.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "suggestAct",
+        "Elements",
+        "btnSubmitAct.json"
+      ]
     }
   ],
   "class": "",

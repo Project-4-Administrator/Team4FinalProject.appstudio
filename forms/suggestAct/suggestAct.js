@@ -1,5 +1,13 @@
 activities=[]
 
-Button1.onclick=function(){
+
+
+
+btnSubmitAct.onclick=function(){
+  activities.push(inptAct.value)
+  console.log(activities)
+}
+
+btnSug.onclick=function(){
   ChangeForm(voteAct)
 }

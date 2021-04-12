@@ -18,6 +18,15 @@
         "Elements",
         "btnVote.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "voteAct",
+        "Elements",
+        "dpdOptionsAct.json"
+      ]
     }
   ],
   "class": "",
