@@ -62,10 +62,10 @@
           "!type": "External",
           "file": [
             "forms",
-
             "customizeAccount",
             "customizeAccount.json"
           ]
+
 
             "calendarInteractive",
             "calendarInteractive.json"
@@ -112,6 +112,7 @@
             "voteAct",
             "voteAct.json"
           ]
+
         }
       ],
       "configxml": null,
