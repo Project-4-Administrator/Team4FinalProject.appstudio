@@ -81,6 +81,48 @@
             "connections",
             "connections.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calendarInteractive",
+            "calendarInteractive.json"
+          ]
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "style_css",
+          "language": "Other",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "style.css"
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "app_js",
+          "language": "JavaScript",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "app.js"
         }
       ],
       "configxml": null,
