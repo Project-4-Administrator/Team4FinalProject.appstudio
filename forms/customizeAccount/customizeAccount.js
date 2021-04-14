@@ -70,5 +70,10 @@ btnCustomizeAccountRefresh.onclick=function(){
   lblCustomerIDReminder.value = 'Forget your ID? Enter your username to search for it!'
   inptUsernameSearch.value = ''
   txtHobbies.value = ''
-  
 }
+
+btnConnections.onclick=function(){
+  ChangeForm(connections)
+}
+
+

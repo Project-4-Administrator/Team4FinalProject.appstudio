@@ -99,6 +99,15 @@
         "Elements",
         "btnCustomizeAccountRefresh.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customizeAccount",
+        "Elements",
+        "btnConnections.json"
+      ]
     }
   ],
   "class": "",
