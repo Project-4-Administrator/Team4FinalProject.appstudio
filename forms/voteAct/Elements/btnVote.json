@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnVote",
-  "left": 122,
+  "left": 108,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 402,
+  "top": 383,
   "value": "Edit Options",
   "width": "auto"
 }
