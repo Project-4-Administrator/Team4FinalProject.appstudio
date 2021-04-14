@@ -14,99 +14,81 @@
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "hmbNavCustomizeAccount.json"
+        "hmbNavConnections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "lblCustomize.json"
+        "drpConnections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "btnViewCalendar.json"
+        "inptHobby1Connections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "txtHobbies.json"
+        "inptHobby2Connections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "inptUsernameSearch.json"
+        "inptHobby3Connections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "btnCustomerID.json"
+        "btnSearchConnections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "btnShowHobbies.json"
+        "lblConnections.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "lblCustomerIDReminder.json"
+        "btnConnectionsRefresh.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customizeAccount",
+        "connections",
         "Elements",
-        "btnAddHobby.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customizeAccount",
-        "Elements",
-        "btnCustomizeAccountRefresh.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customizeAccount",
-        "Elements",
-        "btnConnections.json"
+        "btnConnectionsBack.json"
       ]
     }
   ],
@@ -116,7 +98,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customizeAccount",
+  "id": "connections",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

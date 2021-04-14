@@ -73,6 +73,14 @@
             "addHobby",
             "addHobby.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "connections",
+            "connections.json"
+          ]
         }
       ],
       "configxml": null,
