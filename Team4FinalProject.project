@@ -86,14 +86,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "calendarInteractive",
             "calendarInteractive.json"
           ]
@@ -144,7 +136,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerSelect",
+      "firstform": "calendarInteractive",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
