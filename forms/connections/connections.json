@@ -63,6 +63,33 @@
         "Elements",
         "btnSearchConnections.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "lblConnections.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "btnConnectionsRefresh.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "btnConnectionsBack.json"
+      ]
     }
   ],
   "class": "",
