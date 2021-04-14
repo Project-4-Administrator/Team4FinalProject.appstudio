@@ -27,6 +27,42 @@
         "Elements",
         "drpConnections.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "inptHobby1Connections.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "inptHobby2Connections.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "inptHobby3Connections.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "connections",
+        "Elements",
+        "btnSearchConnections.json"
+      ]
     }
   ],
   "class": "",
