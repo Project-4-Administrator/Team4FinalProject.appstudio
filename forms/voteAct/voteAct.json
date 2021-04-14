@@ -27,6 +27,15 @@
         "Elements",
         "dpdOptionsAct.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "voteAct",
+        "Elements",
+        "lblActResults.json"
+      ]
     }
   ],
   "class": "",
