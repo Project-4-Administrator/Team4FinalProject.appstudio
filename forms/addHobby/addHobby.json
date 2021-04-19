@@ -1,0 +1,110 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "hmbNavAddHobby.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "btnAddHobbyBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "inptHobby1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "inptHobby2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "inptHobby3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "btnAddHobbies.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "lblAddHobbyMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "addHobby",
+        "Elements",
+        "inptHobbyUsername.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "addHobby",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

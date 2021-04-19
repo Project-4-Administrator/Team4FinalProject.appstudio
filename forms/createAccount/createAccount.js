@@ -1,4 +1,4 @@
-hmbNavUserLogin.onclick = function(s) {
+hmbNavCreateAccount.onclick = function(s) {
   if (typeof(s) == "object") {
     return
   } else {

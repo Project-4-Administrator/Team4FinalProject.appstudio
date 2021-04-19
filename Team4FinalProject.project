@@ -57,6 +57,72 @@
             "userLogin",
             "userLogin.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customizeAccount",
+            "customizeAccount.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "addHobby",
+            "addHobby.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "connections",
+            "connections.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calendarInteractive",
+            "calendarInteractive.json"
+          ]
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "style_css",
+          "language": "Other",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "style.css"
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "app_js",
+          "language": "JavaScript",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "app.js"
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "similarities",
+            "similarities.json"
+          ]
         }
       ],
       "configxml": null,
@@ -78,7 +144,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "appWelcome",
+      "firstform": "connections",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
