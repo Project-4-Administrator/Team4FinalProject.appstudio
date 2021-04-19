@@ -25,12 +25,14 @@ hmbNavConnections.onclick = function(s) {
 
 var hobbiesUsers = []
 
+
 drpConnections.onclick=function(s){
     if (typeof(s) == "object")  
       return                    
     else {
         drpConnections.value = s
         lblConnections.value = 'Nice nice nice'
+
         function userName() {
             selectedUser = drpConnections.selection
             return selectedUser
@@ -42,6 +44,11 @@ drpConnections.onclick=function(s){
 /*let connectedUser = userName()
 console.log(connectedUser)
 */
+
+
+    }
+}
+
 
 btnConnectionsBack.onclick=function(){
   ChangeForm(customizeAccount)
@@ -73,6 +80,7 @@ btnSearchConnections.onclick=function(){
 }
 
 
+
 var quereyOne = `SELECT customer_f_name, customer_l_name
 FROM customer
 WHERE username = "ironman3000"`
@@ -91,3 +99,4 @@ if (req.status == 200) {
 
 
 console.log(nameUser)
+
