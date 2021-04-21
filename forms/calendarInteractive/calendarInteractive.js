@@ -26,3 +26,8 @@ Changes to make to use in project:
    > change the color from blue to something else
    > get it to center on the phone without dragging it to center
 */
+btnCustom.onclick=function(){
+  ChangeForm(customizeAccount)
+}
+
+

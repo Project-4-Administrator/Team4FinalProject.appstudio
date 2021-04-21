@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 similarities.onshow=function(){
 
@@ -58,22 +57,6 @@ let requestURL = "https://maps.googleapis.com/maps/api/place/textsearch/json?que
 
 function onXHRLoad() {
 
-=======
-var interestsOne = ['running', 'cooking', 'eating']
-var interestsTwo = ['cooking', 'cars', 'running']
-var similar = []
-
-for (var i = 0; i < interestsOne.length; i++) {
-  if (interestsTwo.includes(interestsOne[i])) {
-    similar.push(interestsOne[i])
-    }
-    }
-    
-// 1. *** use your own url copied from Postman ****
-let requestURL = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + similar[0] + "&key=AIzaSyCyCMHU3j6_4ByfEINA8BV9GYTe6Hxrg9Y&location=41.265331, -95.94936&radius=500&type=restaurant&maxprice=1&rating=>4"
-
-function onXHRLoad() {
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
     let message = ""
     
     // 'this' is another name for the object returned from the API call
@@ -83,11 +66,7 @@ function onXHRLoad() {
         console.log(`${apiData.results[i].name}`)
         message = message + apiData.results[i].name + "\n"
     }
-<<<<<<< HEAD
     
-=======
-    console.log(message)
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
     // 2. *** put your textarea control name here ****
     similarPlaces.value = message
     
@@ -136,8 +115,5 @@ similarBtn.onclick=function(){
       // call the code that will make the API call, then process what comes back
     callAPI(requestURL)
 }
-<<<<<<< HEAD
 }
 
-=======
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
