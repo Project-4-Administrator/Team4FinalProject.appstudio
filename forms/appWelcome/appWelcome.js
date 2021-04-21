@@ -1,5 +1,5 @@
 appWelcome.onshow=function(){
-  lblWelcome.value = "[APP NAME] Login"
+  lblWelcome.value = "Party Planner Login"
   lblFooter.value = "Relationships have never been this easy."
 }
 
@@ -10,7 +10,7 @@ btnLogin.onclick = function() {
 }
 
 btnSignUp.onclick = function() {
-  ChangeForm(createAccount)
+  ChangeForm(customerInsert)
 }
 
 
