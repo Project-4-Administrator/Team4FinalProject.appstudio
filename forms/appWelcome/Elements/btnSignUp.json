@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "Gold",
+  "backgroundColor": "#87CEEB",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -18,8 +18,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "times",
-  "fontSize": "",
+  "fontFamily": "Verdana",
+  "fontSize": "15",
   "fontStyle": "",
   "fontWeight": "",
   "groupStyle": "",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSignUp",
-  "left": 162,
+  "left": 108,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": "269",
+  "top": 173,
   "value": "Sign Up!",
-  "width": 141
+  "width": 111
 }

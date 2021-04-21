@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#87CEEB",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -18,8 +18,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "",
-  "fontSize": "",
+  "fontFamily": "Verdana",
+  "fontSize": "12",
   "fontStyle": "",
   "fontWeight": "",
   "groupStyle": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 412,
+  "top": 392,
   "value": "Back",
   "width": "auto"
 }

@@ -2,7 +2,7 @@
   "!type": "Hamburger_bs4",
   "align": " dropdown-menu-right",
   "appearance": " btn-secondary",
-  "backgroundColor": "Maroon",
+  "backgroundColor": "#ADD8E6",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": " btn-block",

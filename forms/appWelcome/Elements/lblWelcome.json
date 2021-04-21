@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
-  "backgroundColor": "Maroon",
+  "backgroundColor": "#ADD8E6",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblWelcome",
   "labelStyle": "text",
-  "left": 31,
+  "left": 1,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 34,
+  "top": 35,
   "value": "",
   "width": 251
 }

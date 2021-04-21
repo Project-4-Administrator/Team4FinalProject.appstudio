@@ -77,3 +77,7 @@ btnConnections.onclick=function(){
 }
 
 
+
+btnViewCalendar.onclick=function(){
+  ChangeForm(calendarInteractive)
+}

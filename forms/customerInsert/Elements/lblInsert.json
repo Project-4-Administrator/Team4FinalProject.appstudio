@@ -11,7 +11,7 @@
   "color": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "",
+  "fontFamily": "Verdana",
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblInsert",
   "labelStyle": "text",
-  "left": 175,
+  "left": 171,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 398,
+  "top": 397,
   "value": "Label",
   "width": 145
 }

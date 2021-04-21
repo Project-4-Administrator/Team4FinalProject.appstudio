@@ -16,8 +16,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "",
-  "fontSize": "",
+  "fontFamily": "Verdana",
+  "fontSize": "12",
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
@@ -74,9 +74,9 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 202,
+  "top": 172,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 168
+  "width": 121
 }

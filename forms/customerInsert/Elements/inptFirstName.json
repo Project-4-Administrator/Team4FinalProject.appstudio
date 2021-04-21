@@ -18,8 +18,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "",
-  "fontSize": "",
+  "fontFamily": "Verdana",
+  "fontSize": "12",
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
@@ -32,7 +32,7 @@
   "id": "inptFirstName",
   "inputType": "text",
   "inputmode": "",
-  "left": 11,
+  "left": 4,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 103,
+  "top": 89,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 145
+  "width": 107
 }

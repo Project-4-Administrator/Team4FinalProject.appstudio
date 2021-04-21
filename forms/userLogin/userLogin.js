@@ -49,7 +49,7 @@ btnUserLoginSubmit.onclick = function(){
            lblLoginError.value = "This user does not exist. Please try again."
         else {        
            ChangeForm(customizeAccount)
-           
+           lblLoginError.value=inputUser
         } 
 
     }

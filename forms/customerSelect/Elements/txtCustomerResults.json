@@ -16,8 +16,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-  "fontFamily": "",
-  "fontSize": "",
+  "fontFamily": "Verdana",
+  "fontSize": "12",
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
@@ -29,7 +29,7 @@
   "iconTitle": "",
   "id": "txtCustomerResults",
   "inputmode": "",
-  "left": 3,
+  "left": 1,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -74,9 +74,9 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 221,
+  "top": 91,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 238
 }

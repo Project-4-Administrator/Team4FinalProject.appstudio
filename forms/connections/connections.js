@@ -25,15 +25,18 @@ hmbNavConnections.onclick = function(s) {
 
 var hobbiesUsers = []
 
-
 drpConnections.onclick=function(s){
     if (typeof(s) == "object")  
       return                    
     else {
         drpConnections.value = s
         lblConnections.value = 'Nice nice nice'
-    }
+        selectedUser = drpConnections.selection
+        console.log(selectedUser)
+        userLbl.value = selectedUser
+  }
 }
+
 
 btnConnectionsBack.onclick=function(){
   ChangeForm(customizeAccount)
@@ -66,9 +69,6 @@ btnSearchConnections.onclick=function(){
 
 
 
-
-
-
-
-
-
+btnToSimilar.onclick=function(){
+  ChangeForm(similarities)
+}
