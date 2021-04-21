@@ -2,7 +2,11 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
+<<<<<<< HEAD
   "backgroundColor": "#87CEEB",
+=======
+  "backgroundColor": "",
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -18,8 +22,13 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
+<<<<<<< HEAD
   "fontFamily": "Verdana",
   "fontSize": "12",
+=======
+  "fontFamily": "",
+  "fontSize": "",
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "fontStyle": "",
   "fontWeight": "",
   "groupStyle": "",
@@ -29,13 +38,21 @@
   "icon": "",
   "iconTitle": "",
   "id": "similarBtn",
+<<<<<<< HEAD
   "left": 4,
+=======
+  "left": 49,
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
+<<<<<<< HEAD
   "onclick": "similarBtn.onclick()",
+=======
+  "onclick": "",
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +77,13 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+<<<<<<< HEAD
   "top": 176,
   "value": "See Ideas",
   "width": 96
+=======
+  "top": 244,
+  "value": "See Ideas",
+  "width": 124
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
 }

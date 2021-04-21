@@ -31,10 +31,28 @@ drpConnections.onclick=function(s){
     else {
         drpConnections.value = s
         lblConnections.value = 'Nice nice nice'
+<<<<<<< HEAD
         selectedUser = drpConnections.selection
         console.log(selectedUser)
         userLbl.value = selectedUser
   }
+=======
+
+        function userName() {
+            selectedUser = drpConnections.selection
+            return selectedUser
+            }
+        //return userName()
+}
+}
+
+/*let connectedUser = userName()
+console.log(connectedUser)
+*/
+
+
+    }
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
 }
 
 
@@ -69,6 +87,28 @@ btnSearchConnections.onclick=function(){
 
 
 
+<<<<<<< HEAD
 btnToSimilar.onclick=function(){
   ChangeForm(similarities)
 }
+=======
+var quereyOne = `SELECT customer_f_name, customer_l_name
+FROM customer
+WHERE username = "ironman3000"`
+req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + quereyOne)
+
+if (req.status == 200) {
+  results = JSON.parse(req.responseText)
+  if (results.length == 0)    
+      lblConnections.value = 'Something went wrong...'
+  else {        
+      for (i = 0; i < results.length; i++) 
+          drpConnections.addItem(results[i])
+        
+    }
+}
+
+
+console.log(nameUser)
+
+>>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
