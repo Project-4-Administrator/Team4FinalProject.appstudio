@@ -3,11 +3,7 @@
   "HTML": null,
   "attributes": "",
   "background": "",
-<<<<<<< HEAD
   "backgroundimage": "images/unnamed.png",
-=======
-  "backgroundimage": "",
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "borderColor": "",
   "borderStyle": "",
   "borderWidth": "",
@@ -31,7 +27,6 @@
         "Elements",
         "similarBtn.json"
       ]
-<<<<<<< HEAD
     },
     {
       "!type": "External",
@@ -68,8 +63,6 @@
         "Elements",
         "userTxt.json"
       ]
-=======
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
     }
   ],
   "class": "",
@@ -86,11 +79,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-<<<<<<< HEAD
   "onshow": "similarities.onshow()",
-=======
-  "onshow": "",
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

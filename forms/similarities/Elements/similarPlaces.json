@@ -16,13 +16,8 @@
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
-<<<<<<< HEAD
   "fontFamily": "Verdana",
   "fontSize": "12",
-=======
-  "fontFamily": "",
-  "fontSize": "",
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
@@ -34,11 +29,7 @@
   "iconTitle": "",
   "id": "similarPlaces",
   "inputmode": "",
-<<<<<<< HEAD
   "left": 3,
-=======
-  "left": 7,
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -83,11 +74,7 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-<<<<<<< HEAD
   "top": 59,
-=======
-  "top": 71,
->>>>>>> 623f81cd69fda1dc71ce265441cb2942cfb06384
   "validation": "",
   "value": "",
   "valueCols": 10,
