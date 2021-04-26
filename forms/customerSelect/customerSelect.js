@@ -27,7 +27,7 @@ btnSearch.onclick=function(){
 }
 
 btnCustomerInsert.onclick = function() {
-  ChangeForm(customerInsert)
+  ChangeForm(createAccount)
 }
 
 hmbNavUserLogin.onclick = function(s) {

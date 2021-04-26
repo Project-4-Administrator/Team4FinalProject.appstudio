@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSearch",
-  "left": 87,
+  "left": 88,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 180,
+  "top": 230,
   "value": "Search",
   "width": "auto"
 }
