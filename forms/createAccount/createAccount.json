@@ -3,7 +3,7 @@
   "HTML": null,
   "attributes": "",
   "background": "",
-  "backgroundimage": "",
+  "backgroundimage": "images/unnamed.png",
   "borderColor": "",
   "borderStyle": "",
   "borderWidth": "",
@@ -16,7 +16,115 @@
         "forms",
         "createAccount",
         "Elements",
-        "hmbNavCreateAccount.json"
+        "inptFirstName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptLastName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptStreet.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptZipcode.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptPhone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptUserPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "btnInsert.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "lblInsert.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "inptCreateUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createAccount",
+        "Elements",
+        "hmbNavCustomerInsert.json"
       ]
     }
   ],

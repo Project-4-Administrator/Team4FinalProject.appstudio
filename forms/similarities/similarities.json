@@ -63,6 +63,15 @@
         "Elements",
         "userTxt.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "similarities",
+        "Elements",
+        "hmbNavSimilarities.json"
+      ]
     }
   ],
   "class": "",

@@ -6,18 +6,16 @@ hmbNavConnections.onclick = function(s) {
       case "Welcome":
         ChangeForm(appWelcome)
         break
-      case "Select":
+      case "Select Customer":
         ChangeForm(customerSelect)
         break
-      case "Insert":
-        ChangeForm(customerInsert)
-        break
-      case "Create":
-        ChangeForm(createAccount)
-        break
-      case "Login":
+      case "User Login":
         ChangeForm(userLogin)
         break
+      case "Sign Up":
+        ChangeForm(createAccount)
+        break
+      
     }
   }
 }

@@ -30,8 +30,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "customerInsert",
-            "customerInsert.json"
+            "createAccount",
+            "createAccount.json"
           ]
         },
         {
@@ -40,14 +40,6 @@
             "forms",
             "appWelcome",
             "appWelcome.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "createAccount",
-            "createAccount.json"
           ]
         },
         {

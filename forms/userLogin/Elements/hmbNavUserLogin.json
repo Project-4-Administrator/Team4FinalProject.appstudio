@@ -30,7 +30,7 @@
   "icon": "menu",
   "iconTitle": "",
   "id": "hmbNavUserLogin",
-  "items": "Welcome\nSelect\nInsert\nCreate\nAccount Login",
+  "items": "Welcome\nSelect Customer\nUser Login\nSign Up",
   "left": 1,
   "mAll": "",
   "mBottom": "",
