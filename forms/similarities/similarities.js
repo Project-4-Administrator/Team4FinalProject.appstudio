@@ -141,3 +141,7 @@ similarBtn.onclick=function(){
 btnMessage.onclick=function(){
   ChangeForm(sendMessages)
 }
+
+btnSimilaritiesBack.onclick=function(){
+  ChangeForm(connections)
+}

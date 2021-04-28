@@ -18,6 +18,42 @@
         "Elements",
         "hmbNavViewMessages.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "viewMessages",
+        "Elements",
+        "txtViewMessages.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "viewMessages",
+        "Elements",
+        "btnShowMessages.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "viewMessages",
+        "Elements",
+        "btnViewMessagesBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "viewMessages",
+        "Elements",
+        "inptViewMessages.json"
+      ]
     }
   ],
   "class": "",

@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnViewMessages",
-  "left": 133,
+  "id": "btnShowMessages",
+  "left": 85,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 417,
-  "value": "View Your Messages",
-  "width": 182
+  "top": 287,
+  "value": "Show Messages",
+  "width": "auto"
 }

@@ -20,4 +20,6 @@ hmbNavSendMessages.onclick = function(s) {
   }
 }
 
-
+btnViewMessagesBack.onclick=function(){
+  ChangeForm(sendMessages)
+}

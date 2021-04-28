@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnViewMessages",
-  "left": 133,
+  "id": "btnSimilaritiesBack",
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 417,
-  "value": "View Your Messages",
-  "width": 182
+  "top": 389,
+  "value": "Back",
+  "width": "auto"
 }

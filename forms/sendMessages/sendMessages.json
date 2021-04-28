@@ -72,6 +72,15 @@
         "Elements",
         "btnViewMessages.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "sendMessages",
+        "Elements",
+        "btnSendMessagesBack.json"
+      ]
     }
   ],
   "class": "",
