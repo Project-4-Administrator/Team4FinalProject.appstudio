@@ -138,3 +138,6 @@ similarBtn.onclick=function(){
 }
 }
 
+btnMessage.onclick=function(){
+  ChangeForm(messages)
+}

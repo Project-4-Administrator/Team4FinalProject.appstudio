@@ -24,11 +24,11 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": 46,
+  "height": 67,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "similarBtn2",
+  "id": "btnMessage",
   "left": 114,
   "mAll": "",
   "mBottom": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 176,
-  "value": "Button",
-  "width": "auto"
+  "value": "Message Connections",
+  "width": 126
 }

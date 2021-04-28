@@ -115,6 +115,14 @@
             "similarities",
             "similarities.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "messages",
+            "messages.json"
+          ]
         }
       ],
       "configxml": null,

@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnToSimilar",
-  "left": 172,
+  "left": 157,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 333,
-  "value": "Button",
+  "value": "Get Ideas",
   "width": "auto"
 }
