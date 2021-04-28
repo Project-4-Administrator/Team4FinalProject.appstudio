@@ -120,8 +120,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "messages",
-            "messages.json"
+            "sendMessages",
+            "sendMessages.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "viewMessages",
+            "viewMessages.json"
           ]
         }
       ],
